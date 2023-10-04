@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- dispatcher-servlet.xml : 내부 웹 접근 및 처리 작업 설정 파일 -->
+
+    <!--  접근 자원에 대한 권한 설정 -->
+
+    <!-- 리졸버에 대한 접두사와 접미사 설정 -->
+
+    <!-- 멀티파트 리졸버 설정 -->
+
+    <!-- 멀티파트 업로드 디렉토리 지정 -->
+
+    <!-- 기본 메인 패키지 및 컨트롤러 패키지 설정 -->
+
+    <!-- 인터셉터 : 글쓰기와 같은 회원권한을 가진 경우는 반드시 로그인 페이지를 거쳐서 시도할 것  -->
+
+</beans>
